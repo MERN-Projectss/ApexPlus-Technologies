@@ -1,0 +1,12 @@
+.scenario-form {
+    padding-top: 30%;
+    
+    color: white;
+    
+}
+
+.form {
+    display: flexbox;
+    flex-direction: column;
+    color: rgb(30, 174, 235);
+}
